@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Berfin Yel</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h1 align="center">Hi 👋, I'm Berfin Yel</h1>
+<h3 align="center">A statistics student from Türkiye working in data analysis and data science</h3>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
